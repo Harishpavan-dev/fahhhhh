@@ -29,7 +29,7 @@ A fun and highly effective VS Code extension that provides immediate audio feedb
 Search for **"Fahhhhhh Error Notifier"** in the VS Code Extensions Marketplace and click **Install**.
 
 ### 2. Manual VSIX Installation
-1. [Download](https://github.com/Harishpavan-dev) the latest `.vsix` file.
+1. [Download](https://github.com/Harishpavan-dev/fahhhhh.git) the latest `.vsix` file.
 2. In VS Code, open the Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`).
 3. Type and select **"Extensions: Install from VSIX..."**.
 4. Choose the downloaded file and enjoy!
