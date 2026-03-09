@@ -15,7 +15,7 @@
     "url": "https://github.com/Harishpavan-dev/fahhhhh.git"
   },
   "activationEvents": [
-    "*"
+    "onStartupFinished"
   ],
   "main": "./extension.js",
   "icon": "media/logo.png",

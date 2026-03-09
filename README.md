@@ -15,6 +15,12 @@ A fun and highly effective VS Code extension that provides immediate audio feedb
 
 **Fahhhhhh** is designed to transform your development experience by adding a layer of auditory awareness to your workflow. Whether you're juggling multiple terminals or just need a lighthearted alert for failed tasks, this extension automatically plays a satisfying "fahhhhhh" sound whenever a command exits with an error code.
 
+### 🆕 What's New in v0.0.3
+- 🎨 **Professional Brand**: New high-quality logo and documentation.
+- 🛠️ **Performance Fixes**: Switched to optimized activation for faster VS Code startup.
+- 🐛 **Command Bugfix**: Fixed manual playback command registration issues.
+- ⚖️ **Open Source**: Now licensed under MIT.
+
 ## ✨ Key Features
 
 - 🔊 **Auto-Trigger on Error**: Automatically plays `fahhhhhh.wav` when terminal commands fail (non-zero exit code).
