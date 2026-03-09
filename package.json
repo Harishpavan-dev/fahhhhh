@@ -1,0 +1,51 @@
+{
+  "name": "fahhhhh",
+  "publisher": "harishpavan",
+  "displayName": "Fahhhhhh Error Notifier",
+  "description": "Plays a fahhhhhh sound automatically whenever VS Code detects an error",
+  "version": "0.0.3",
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Harishpavan-dev/fahhhhh.git"
+  },
+  "activationEvents": [
+    "*"
+  ],
+  "main": "./extension.js",
+  "icon": "media/logo.png",
+  "files": [
+    "extension.js",
+    "media/**"
+  ],
+  "contributes": {
+    "commands": [
+      {
+        "command": "fahhhhh.playSound",
+        "category": "Fahhhhhh",
+        "title": "Play Fahhhhhh Sound"
+      }
+    ]
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "npm run lint",
+    "test": "vscode-test"
+  },
+  "devDependencies": {
+    "@types/mocha": "^10.0.10",
+    "@types/node": "^22.19.13",
+    "@types/vscode": "^1.109.0",
+    "@vscode/test-cli": "^0.0.12",
+    "@vscode/test-electron": "^2.5.2",
+    "eslint": "^9.39.3"
+  },
+  "dependencies": {
+    "node-wav-player": "^1.0.0"
+  }
+}
