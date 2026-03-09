@@ -1,5 +1,10 @@
 # 🎵 Fahhhhhh Error Notifier
 
+[![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/harishpavan.fahhhhh?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=harishpavan.fahhhhh)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/harishpavan.fahhhhh?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=harishpavan.fahhhhh)
+[![License](https://img.shields.io/github/license/Harishpavan-dev/fahhhhh?style=for-the-badge)](LICENSE)
+
+
 <p align="center">
   <img src="media/logo.png" alt="Fahhhhhh Logo" width="128" height="128">
 </p>
@@ -29,6 +34,9 @@ Search for **"Fahhhhhh Error Notifier"** in the VS Code Extensions Marketplace a
 3. Type and select **"Extensions: Install from VSIX..."**.
 4. Choose the downloaded file and enjoy!
 
+> [!TIP]
+> **Not hearing anything?** Ensure your system volume is up and you have the necessary system players installed (e.g., PowerShell on Windows, `afplay` on macOS, or `paplay`/`aplay` on Linux).
+
 ## 🛠️ Configuration & Usage
 
 Once installed, Fahhhhhh works automatically for all integrated terminals.
@@ -52,6 +60,12 @@ Connect with me for more creative tools and developer solutions:
 - 🌐 [Personal Portfolio](https://harishpavan-dev.vercel.app)
 - 🐙 [GitHub Profile](https://github.com/Harishpavan-dev)
 - 🤝 [Support & Feedback](https://github.com/Harishpavan-dev)
+
+---
+
+## ⚖️ License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
