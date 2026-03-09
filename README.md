@@ -59,7 +59,7 @@ Connect with me for more creative tools and developer solutions:
 
 - 🌐 [Personal Portfolio](https://harishpavan-dev.vercel.app)
 - 🐙 [GitHub Profile](https://github.com/Harishpavan-dev)
-- 🤝 [Support & Feedback](https://github.com/Harishpavan-dev)
+- 🤝 [Feedback](https://github.com/Harishpavan-dev)
 
 ---
 
